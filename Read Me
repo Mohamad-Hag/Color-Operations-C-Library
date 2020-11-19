@@ -1,5 +1,5 @@
 To add ColorOperations Library into your c# project (in visual studio):
 
 1- In the solution explorer, right click on (References) and choose (Add Reference...).
-2- In the Reference Manager window, you have (Browse) button on the bottom click on it and choose the location of (ColorOperations.dll) then click (Add).
+2- In the Reference Manager window, you have (Browse) button on the bottom click on it and find the path of (ColorOperations.dll) then click (Add).
 3- You can include it in any cs file by (using) keyword.
